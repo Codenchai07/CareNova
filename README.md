@@ -55,7 +55,7 @@
 
 ## Output
 
-<img width="1643" height="865" alt="Screenshot 2025-07-17 105312" src="" />
+<img width="1643" height="865" alt="Screenshot 2025-07-17 105312" src="https://github.com/Codenchai07/CareNova/blob/main/uploads/Screenshot%202025-11-07%20002143.png" />
 
 ---
 
