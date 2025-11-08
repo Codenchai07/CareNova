@@ -1,15 +1,12 @@
-# MediVoxAI 🩺🤖
+# CareNova 🩺🤖
 
-**MediVoxAI** is a next-generation Medical Chatbot powered by a Multimodal Large Language Model (LLM) with both Vision and Voice capabilities. MediVoxAI can converse with patients, understand spoken questions, analyze medical images, and respond with empathetic and informative answers — making healthcare assistance more accessible and interactive.
-**LINK:** https://huggingface.co/spaces/jv456/MediVoxAI
+**CareNova** is a next-generation Medical Chatbot powered by a Multimodal Large Language Model (LLM) with both Vision and Voice capabilities. MediVoxAI can converse with patients, understand spoken questions, analyze medical images, and respond with empathetic and informative answers — making healthcare assistance more accessible and interactive
 
 ---
 
 ## Features
 
 - **Multimodal LLM**: Handles both medical images and text inputs.
-- **Speech-to-Text (STT)**: Records and transcribes patient voice input.
-- **Text-to-Speech (TTS)**: Responds with realistic doctor voice output.
 - **Intuitive UI**: User-friendly interface using Gradio.
 
 ---
