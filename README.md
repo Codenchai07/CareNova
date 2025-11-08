@@ -40,8 +40,7 @@
 1. **User speaks or uploads an image** via the Gradio UI.
 2. **Image and text** are processed by the multimodal LLM (Llama 3 Vision).
 3. **AI generates response** as text.
-4. **Doctor's response is converted to voice** using TTS and played back.
-5. **All interaction happens in a web UI** (Gradio).
+4. **All interaction happens in a web UI** (Gradio).
 
 ---
 
